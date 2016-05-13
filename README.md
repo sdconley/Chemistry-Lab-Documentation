@@ -14,3 +14,6 @@ CHEM 120: General Chemistry II
 CHEM 210: Organic Chemistry I
 
 CHEM 220: Organic Chemistry II
+
+
+Course descriptions: https://www.avc.edu/sites/default/files/catalog/chemistry.pdf
